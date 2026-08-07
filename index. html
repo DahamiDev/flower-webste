@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Anime Blossom Garden | 3D Cartoon Paradise</title>
     <link rel="stylesheet" href="style.css">
-    <!-- Google Fonts for Anime/Manga style -->
+    <!-- Google Fonts for Anime style -->
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
     <!-- Three.js Core -->
     <script type="importmap">
@@ -31,17 +31,17 @@
         <ul class="nav-links">
             <li><a href="#home">Home</a></li>
             <li><a href="#gallery">Gallery</a></li>
-            <li><a href="#collection">Kawaii Collection</a></li>
+            <li><a href="#collection"> Collection</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
     <!-- Hero Section -->
     <section class="hero" id="home">
-        <div class="anime-floating" style="top: 15%; left: 5%; animation-duration: 14s;">🍥🌸</div>
-        <div class="anime-floating" style="top: 70%; left: 85%; animation-duration: 18s;">✨🍃</div>
-        <div class="anime-floating" style="top: 30%; right: 8%; animation-duration: 11s;">🎴🌼</div>
-        <div class="anime-floating" style="bottom: 20%; left: 20%; animation-duration: 16s;">🍂⭐</div>
+        <div class="anime-floating" style="top: 15%; left: 5%; animation-duration: 14s;">🌸</div>
+        <div class="anime-floating" style="top: 70%; left: 85%; animation-duration: 18s;">🍃</div>
+        <div class="anime-floating" style="top: 30%; right: 8%; animation-duration: 11s;">🌼</div>
+        <div class="anime-floating" style="bottom: 20%; left: 20%; animation-duration: 16s;">🍂</div>
         
         <div class="hero-content">
             <h1 class="hero-title">Kawaii Flower Realm</h1>
