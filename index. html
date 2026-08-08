@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Anime Blossom Garden | 3D Cartoon Paradise</title>
+    <title>Anime Blossom Garden | 3D Cartoon </title>
     <link rel="stylesheet" href="style.css">
     <!-- Google Fonts for Anime style -->
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
@@ -27,7 +27,7 @@
 
     <!-- Anime Navigation Bar -->
     <nav>
-        <div class="logo">✨ Anime Blossom ✨</div>
+        <div class="logo">✨ Anime Blossom </div>
         <ul class="nav-links">
             <li><a href="#home">Home</a></li>
             <li><a href="#gallery">Gallery</a></li>
@@ -38,10 +38,10 @@
 
     <!-- Hero Section -->
     <section class="hero" id="home">
-        <div class="anime-floating" style="top: 15%; left: 5%; animation-duration: 14s;">🌸</div>
-        <div class="anime-floating" style="top: 70%; left: 85%; animation-duration: 18s;">🍃</div>
-        <div class="anime-floating" style="top: 30%; right: 8%; animation-duration: 11s;">🌼</div>
-        <div class="anime-floating" style="bottom: 20%; left: 20%; animation-duration: 16s;">🍂</div>
+        <div class="anime-floating" style="top: 19%; left: 5%; animation-duration: 14s;">🌸</div>
+        <div class="anime-floating" style="top: 79%; left: 85%; animation-duration: 18s;">🍃</div>
+        <div class="anime-floating" style="top: 31%; right: 8%; animation-duration: 11s;">🌼</div>
+        <div class="anime-floating" style="bottom: 25%; left: 20%; animation-duration: 16s;">🍂</div>
         
         <div class="hero-content">
             <h1 class="hero-title">Kawaii Flower Realm</h1>
